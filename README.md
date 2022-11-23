@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ebinan10
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning React and node
-- 💞️ I’m looking to collaborate on tecch dev
+- 💞️ I’m looking to collaborate with Developer or work with tech companies
 - 📫 How to reach me 2348135110879
 
 <!---
